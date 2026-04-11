@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5693c9ff425c8214aa79b8c9aed0b3a3ac93876")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1082f04b7094681fd1243c57afefd4cb16077fd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
