@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using ToDo;
 using ToDoTask;
 using Display;
@@ -7,12 +8,11 @@ using Done;
 using RemoveTasks;
 
 class Program
-{
+{ 
     static void Main(string[] args)
     {
-
-        ToDoClass tasks = new ToDoClass(); // single shared instance
-
+        List<ToDoClass> tasks = new List<ToDoClass>();
+        
         bool Running = true;
 
         while (Running)

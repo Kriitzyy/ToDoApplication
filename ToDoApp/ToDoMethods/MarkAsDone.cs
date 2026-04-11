@@ -4,7 +4,7 @@ namespace Done
 {
 public class MarkAsDone
 {
-    public static void MarkTasks(ToDoClass Tasks)
+    public static void MarkTasks(List<ToDoClass> tasks)
     {
         
     }

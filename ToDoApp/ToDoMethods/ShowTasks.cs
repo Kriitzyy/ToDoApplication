@@ -4,7 +4,7 @@ namespace ShowTask
 {
 public class ShowTasks
 {
-    public static void DisplayTasks(ToDoClass Tasks)
+    public static void DisplayTasks(List<ToDoClass> tasks)
     {
         
     }
