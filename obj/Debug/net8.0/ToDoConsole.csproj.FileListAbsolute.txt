@@ -1,0 +1,14 @@
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\bin\Debug\net8.0\ToDoConsole.exe
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\bin\Debug\net8.0\ToDoConsole.deps.json
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\bin\Debug\net8.0\ToDoConsole.runtimeconfig.json
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\bin\Debug\net8.0\ToDoConsole.dll
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\bin\Debug\net8.0\ToDoConsole.pdb
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ToDoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ToDoConsole.AssemblyInfoInputs.cache
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ToDoConsole.AssemblyInfo.cs
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ToDoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ToDoConsole.dll
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\refint\ToDoConsole.dll
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ToDoConsole.pdb
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ToDoConsole.genruntimeconfig.cache
+C:\Users\Mnaka\OneDrive\Skrivbord\DotnetPortFolio\MyOwnProjects\ToDoConsole\obj\Debug\net8.0\ref\ToDoConsole.dll
