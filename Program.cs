@@ -1,2 +1,48 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using ToDo;
+using ToDoTask;
+using Display;
+using ShowTask;
+using Done;
+using RemoveTasks;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        ToDoClass tasks = new ToDoClass(); // single shared instance
+
+        bool Running = true;
+
+        while (Running)
+        {
+            TerminalDisplay.DisplayMenu();
+
+            string UserInput = Console.ReadLine();
+
+            switch (UserInput)
+            {
+                case "1":
+                    AddTask.Task(tasks);
+                    break;
+                case "2":
+                    ShowTasks.DisplayTasks(tasks);
+                    break;
+                case "3":
+                    MarkAsDone.MarkTasks(tasks);
+                    break;
+                case "4":
+                    RemoveTask.Remove(tasks);
+                    break;
+                case "5":
+                    Running = false;
+                    Console.WriteLine("Exiting the application. Goodbye!");
+                    break;
+                default:
+                    Console.WriteLine("Invalid option. Please try again.");
+                    break;
+            }
+        }
+    }
+}
