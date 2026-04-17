@@ -12,8 +12,12 @@ public class TerminalDisplay
         Console.WriteLine("5. Exit");
 
         Console.Write("\nSelect an option: ");
-
     
-    }
+        }
+        public static void ToContinue()
+        {
+            Console.WriteLine("Press any key to continue... ");
+            Console.ReadKey();
+        }
     }
 }

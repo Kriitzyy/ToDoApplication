@@ -6,7 +6,6 @@ public class AddTask
 {
     public static void Task(List<ToDoClass> tasks)
     {
-        Console.Clear();
 
         Console.WriteLine("\nEnter the title of the task:");
         string Title = Console.ReadLine();

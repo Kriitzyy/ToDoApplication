@@ -16,6 +16,8 @@ class Program
 
         while (Running)
         {
+            Console.Clear();
+
             TerminalDisplay.DisplayMenu();
 
             string UserInput = Console.ReadLine();
@@ -23,20 +25,20 @@ class Program
             switch (UserInput)
             {
                 case "1":
-                Console.Clear();
                     AddTask.Task(tasks);
+                    TerminalDisplay.ToContinue();
                     break;
                 case "2":
-                 Console.Clear();
                     ShowTasks.DisplayTasks(tasks);
+                    TerminalDisplay.ToContinue();
                     break;
                 case "3":
-                Console.Clear();
                     MarkAsDone.MarkTasks(tasks);
+                    TerminalDisplay.ToContinue();
                     break;
-                Console.Clear();
                 case "4":
                     RemoveTask.Remove(tasks);
+                    TerminalDisplay.ToContinue();
                     break;
                 case "5":
                     Running = false;

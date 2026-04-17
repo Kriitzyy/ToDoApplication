@@ -7,7 +7,6 @@ public class RemoveTask
 {
     public static void Remove(List<ToDoClass> tasks)
     {
-        Console.Clear();
 
         if (tasks.Count == 0)
         {
