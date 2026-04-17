@@ -12,6 +12,8 @@ public class TerminalDisplay
         Console.WriteLine("5. Exit");
 
         Console.Write("\nSelect an option: ");
+
+    
     }
     }
 }

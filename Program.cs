@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using ToDo;
 using ToDoTask;
 using Display;
@@ -24,14 +23,18 @@ class Program
             switch (UserInput)
             {
                 case "1":
+                Console.Clear();
                     AddTask.Task(tasks);
                     break;
                 case "2":
+                 Console.Clear();
                     ShowTasks.DisplayTasks(tasks);
                     break;
                 case "3":
+                Console.Clear();
                     MarkAsDone.MarkTasks(tasks);
                     break;
+                Console.Clear();
                 case "4":
                     RemoveTask.Remove(tasks);
                     break;
